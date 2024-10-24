@@ -2,14 +2,28 @@
 
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
 }
 
 .title{
     color: #ff8c00;
     font-size: 48px;
+    display: inline-block;
+    height: 100;
+    width: 330;
+
 }
 
-.links{
+ul .list{
+  height: 100;
+  width: 330;
+}
+
+li a{
     color: #000000;
     font-size: 14px;
+    display: inline-block;
 }
+
+
+
